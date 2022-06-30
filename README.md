@@ -1,0 +1,2 @@
+# spotscholar
+node based app
